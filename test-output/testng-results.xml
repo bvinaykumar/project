@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7549" started-at="2017-01-25T07:21:17Z" finished-at="2017-01-25T07:21:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7549" started-at="2017-01-25T07:21:17Z" finished-at="2017-01-25T07:21:24Z">
+      <class name="com.jass.tests.LoginTest2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jass.tests.LoginTest2@7dc7cbad]" name="setUp" is-config="true" duration-ms="6198" started-at="2017-01-24T23:21:17Z" finished-at="2017-01-24T23:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testcase01()[pri:0, instance:com.jass.tests.LoginTest2@7dc7cbad]" name="testcase01" duration-ms="8" started-at="2017-01-24T23:21:23Z" finished-at="2017-01-24T23:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jass.tests.LoginTest2@7dc7cbad]" name="tearDown" is-config="true" duration-ms="1327" started-at="2017-01-24T23:21:23Z" finished-at="2017-01-24T23:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jass.tests.LoginTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
